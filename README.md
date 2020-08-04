@@ -1,2 +1,3 @@
 # video-conf
-Video conferencing web app using WebRTC
+Video conferencing web app in javascript using WebRTC
+
